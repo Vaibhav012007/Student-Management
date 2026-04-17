@@ -33,11 +33,6 @@ StudyHub is a full-stack productivity web application designed to help students 
 
   * Quick stats for notes, checklist, exams, and focus status
 
----
-
-## 🖼️ Preview
-
-![Dashboard Screenshot](./assets/dashboard.png)
 
 ---
 
